@@ -1,0 +1,26 @@
+{
+    "10-01": {
+      "descripcion": "Atasco en la sección de alimentación manual de papel bypass. 10-01 El borde delantero del papel no activa (desbloquea) el sensor de registro (PS1) incluso después de transcurrido un período de tiempo determinado después de que la bandeja bypass manual empieza a alimentar papel.",
+      "causas": [
+        "Motor de transporte (M1)",
+        "Embrague de registro (CL4)",
+        "Embrague de alimentación de papel de la bandeja bypass (CL7)",
+        "Solenoide de elevación de la bandeja bypass (SD1)",
+        "Solenoide del rodillo de recogida de la bandeja bypass (SD6)",
+        "Sensor de registro (PS1)",
+        "Placa base (BASEB)"
+      ],
+      "recurso": "1 Elementos de verificación inicial..."
+    },
+    "10-02": {
+      "descripcion": "Para el papel alimentado desde la bandeja bypass manual...",
+      "causas": ["Motor de transporte (M1)", "Placa base (BASEB)"],
+      "recurso": "Verificar conexiones y reemplazar componentes según sea necesario."
+    },
+    "10-40": {
+      "descripcion": "Para el papel alimentado desde la bandeja bypass manual...",
+      "causas": ["Sensor de registro (PS1)", "Placa base (BASEB)"],
+      "recurso": "Revisar y ajustar sensores de registro y placa base."
+    }
+  }
+  
